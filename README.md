@@ -1,0 +1,2 @@
+# trashStout
+Directorio de testeo
