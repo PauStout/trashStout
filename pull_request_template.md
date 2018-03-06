@@ -1,5 +1,5 @@
 # Descripción
 Qué ha cambiado?
-- [] Frontend
-- [] Backend
-- [] Otros
+- [ ] Frontend
+- [ ] Backend
+- [ ] Otros
